@@ -239,7 +239,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [PR Explainer Bot](https://pr-explainer-bot.web.app/) — A GitHub integration that adds explanatory text to newly created PRs.
 - [Goast](https://goast.ai/) — A hosted tool that ingests your error logs and suggests fixes.
 - [Corgea](https://corgea.com/) — A GitHub integration that finds and fixes vulnerable code.
-- [Dewhale](https://github.com/Yuyz0112/dewhale) — GitHub-powered AI for effortless development. Open-source alternative to v0.dev with UI generation support.
+- [Dewhale](https://github.com/Yuyz0112/dewhale) — Open-source GitHub integration for AI-driven UI generation. Alternative to v0.dev with support for shadcn, lucide, and nivo charts.
 - [Pixee](https://pixee.ai) — Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 - [CodeAnt AI](https://www.codeant.ai/) — Automatically create PRs to fix code issues.
 - [What The Diff](https://whatthediff.ai/) — AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain english.
