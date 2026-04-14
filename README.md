@@ -394,6 +394,8 @@ Tools that generate commit messages and PR descriptions from diffs:
 - [GitBrain](https://gitbrain.dev/) — Git client that simplifies the git workflow. Splits code changes, generates summaries & commit messages for code changes. Uses OpenAI.
 - [GitButler](https://gitbutler.com/) — Git client for simultaneous branches on top of your existing workflow. Defaults to OpenAI, can be changed to Perplexity for generating conventional commit messages.
 - [AI Git Narrator](https://github.com/pmusolino/AI-Git-Narrator) - CLI tool that uses AI to automatically generate high-quality Git commit messages and pull request descriptions.
+- [gitcommitgen](https://github.com/BenihDev/gitcommitgen) — AI-powered conventional commit message generator. Analyzes staged changes and generates structured commit messages following the conventional commits spec. Install: `npm i -g @fanioz/gitcommitgen`.
+- [gitprgen](https://github.com/BenihDev/gitprgen) — AI-powered PR description generator from git diffs. Analyzes branch changes and produces structured PR descriptions with summaries, changelogs, and type labels. Install: `npm i -g gitprgen`.
 
 ### Documentation Generation
 
